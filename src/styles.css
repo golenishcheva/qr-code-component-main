@@ -31,7 +31,6 @@ body {
     flex-direction: column;
     justify-content: flex-start;
     align-items: center;
-    height: 500px;
     width: 320px;
     margin-top: 20px;
     background-color: #fff;
@@ -45,7 +44,7 @@ body {
 }
 
 .info {
-    margin: 22px 35px 20px 35px;
+    margin: 22px 35px 45px;
     line-height: 1.2;
     text-align: center;
 }
